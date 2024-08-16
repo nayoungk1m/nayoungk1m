@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Hello!  I'm Nayoung Kim 👋</h1>
+<h1 align="center">Hello!  I'm Nayoung Kim 👋</h1>
 
-<h3 style="text-align: center;"> 🚗 Future Automotive Engineer | Computer Vision Enthusiast</h3>
+<h3 align="center"> 🚗 Future Automotive Engineer | Computer Vision Enthusiast</h3>
 
 
 I'm a passionate student in the Department of Automotive Engineering, with a deep interest in Autonomous Driving Perception and Computer Vision.
