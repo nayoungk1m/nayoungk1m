@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Hello!  I'm Nayoung Kim 👋</h2>
+<h1 style="text-align: center;">Hello!  I'm Nayoung Kim 👋</h1>
 
 <h3 style="text-align: center;"> 🚗 Future Automotive Engineer | Computer Vision Enthusiast</h3>
 
